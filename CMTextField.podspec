@@ -15,7 +15,7 @@ s.source           = { :git => 'https://github.com/DreamLCM/CMTextField.git', :t
 
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'CMTextField/**/*'
+s.source_files = 'CMTextField/Class/*'
 
 end
 
